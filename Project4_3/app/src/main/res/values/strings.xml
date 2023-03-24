@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">41</string>
+    <string name="num1">숫자1</string>
+    <string name="num2">숫자2</string>
+    <string name="addition">더하기</string>
+    <string name="subtraction">빼기</string>
+    <string name="multiplication">곱하기</string>
+    <string name="division">나누기</string>
+    <string name="remainder">나머지 값</string>
+    <string name="result">계산 결과 : </string>
+
+</resources>
