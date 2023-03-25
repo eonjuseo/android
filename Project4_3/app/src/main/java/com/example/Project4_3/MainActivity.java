@@ -1,4 +1,4 @@
-package com.example.project4_3;
+package com.example.Project4_3;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,6 +8,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.a4_1.R;
 
 public class MainActivity extends AppCompatActivity {
     EditText edit1, edit2;
