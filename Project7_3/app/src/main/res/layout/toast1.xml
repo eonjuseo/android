@@ -1,0 +1,25 @@
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:background="@android:color/holo_red_dark"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="27dp"
+        android:src="@drawable/ic_star" />
+    <TextView
+        android:id="@+id/tvToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textStyle="bold"
+        android:textSize="20dp" />
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="27dp"
+        android:src="@drawable/ic_star" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
