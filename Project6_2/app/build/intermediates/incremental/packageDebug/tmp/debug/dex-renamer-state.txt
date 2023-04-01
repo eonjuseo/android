@@ -1,4 +1,4 @@
-#Thu Mar 30 19:05:36 KST 2023
+#Fri Mar 31 00:04:11 KST 2023
 base.0=C\:\\Users\\82107\\AndroidStudioProjects\\Project6_2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\82107\\AndroidStudioProjects\\Project6_2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\82107\\AndroidStudioProjects\\Project6_2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex

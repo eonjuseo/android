@@ -9,6 +9,7 @@ drawable ic_launcher_foreground
 id btnBack
 id btnGo
 id edtUrl
+id textView
 id webView
 layout activity_main
 mipmap ic_launcher
