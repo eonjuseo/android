@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="itemRed" type="id" />
+    <item name="itemGreen" type="id" />
+    <item name="itemBlue" type="id" />
+    <item name="subSizeUp" type="id" />
+</resources>
