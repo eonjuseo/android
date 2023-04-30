@@ -55,21 +55,21 @@
         android:layout_height="wrap_content">
 
         <Button
-            android:id="@+id/btn3"
+            android:id="@+id/btnSelect"
             android:layout_width="70dp"
             android:layout_height="wrap_content"
             android:layout_margin="3dp"
             android:text="조회" />
 
         <Button
-            android:id="@+id/btn2"
+            android:id="@+id/btnInsert"
             android:layout_width="70dp"
             android:layout_height="wrap_content"
             android:layout_margin="3dp"
             android:text="입력" />
 
         <Button
-            android:id="@+id/btn1"
+            android:id="@+id/btnInit"
             android:layout_width="70dp"
             android:layout_height="wrap_content"
             android:layout_margin="3dp"
@@ -77,7 +77,7 @@
             android:textSize="10sp" />
 
         <Button
-            android:id="@+id/btn4"
+            android:id="@+id/btnUpdate"
             android:layout_width="70dp"
             android:layout_height="wrap_content"
             android:layout_margin="3dp"
@@ -85,7 +85,7 @@
             />
 
         <Button
-            android:id="@+id/btn5"
+            android:id="@+id/btnDelete"
             android:layout_width="70dp"
             android:layout_height="wrap_content"
             android:layout_margin="3dp"
